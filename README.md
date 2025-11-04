@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+`Innovate Solutions Website
 
-# Run and deploy your AI Studio app
+This is the official repository for the Innovate Solutions corporate marketing website.
 
-This contains everything you need to run your app locally.
+Project Setup
 
-View your app in AI Studio: https://ai.studio/apps/drive/1O9fuhDs4Fj46PupHkPWAPCJL8u52sk25
+To get a local copy up and running, follow these simple steps.
 
-## Run Locally
+Prerequisites
 
-**Prerequisites:**  Node.js
+*   Node.js (LTS version recommended)
+*   npm or yarn
 
+Installation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rainireel/Innovate-solution-website.git`
+
+1. Navigate to the project directory:codeBash
+    
+    `cd Innovate-solution-website`
+    
+2. Install dependencies:codeBash
+    
+    `npm install`
+    
+
+### Running the Project
+
+To start the development server:
+
+codeBash
+
+`npm run dev`
